@@ -1,0 +1,68 @@
+[
+  {
+    "id": "SJ-93C4AF",
+    "name": "abhishek pandey",
+    "age": 21,
+    "gender": "Male",
+    "phone": "",
+    "concern": "Chest Discomfort",
+    "interview": {
+      "duration": "2 days ago",
+      "pattern": "Occasionally",
+      "severity": "Severe",
+      "associated": "heart attack",
+      "history": "kidney exchange",
+      "medications": "yes",
+      "allergies": "yes "
+    },
+    "documents": [],
+    "notes": [],
+    "status": "reviewed",
+    "createdAt": "2026-09-17T04:03:19.644Z",
+    "updatedAt": "2026-09-17T04:05:45.983Z"
+  },
+  {
+    "id": "SJ-1024",
+    "name": "Abhishek Sharma",
+    "age": 28,
+    "gender": "Male",
+    "phone": "9000000000",
+    "concern": "Persistent headache",
+    "interview": {
+      "duration": "5 days",
+      "pattern": "Several times a day",
+      "severity": "Moderate",
+      "associated": "Mild nausea and sensitivity to bright light.",
+      "history": "No known chronic condition. No previous surgery.",
+      "medications": "Paracetamol occasionally.",
+      "allergies": "None known"
+    },
+    "documents": [],
+    "notes": [],
+    "status": "submitted",
+    "createdAt": "2026-09-16T18:44:46.814Z",
+    "updatedAt": "2026-09-16T18:44:46.816Z"
+  },
+  {
+    "id": "SJ-1025",
+    "name": "Priya Verma",
+    "age": 34,
+    "gender": "Female",
+    "phone": "9000000001",
+    "concern": "Fever",
+    "interview": {
+      "duration": "2 days",
+      "pattern": "Most of the day",
+      "severity": "Moderate",
+      "associated": "Body ache and tiredness.",
+      "history": "No significant medical history.",
+      "medications": "None",
+      "allergies": "None known"
+    },
+    "documents": [],
+    "notes": [],
+    "status": "submitted",
+    "createdAt": "2026-09-16T18:44:46.816Z",
+    "updatedAt": "2026-09-16T18:44:46.816Z"
+  }
+]
